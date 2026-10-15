@@ -4,17 +4,17 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ⚡ **High Performance:** Written in raw C++ for lightning-fast execution.
-- 🔍 **Protocol Verification:** Detects unencrypted HTTP connections.
-- 🎣 **Phishing Keyword Detection:** Scans URL structures for sensitive terms (`login`, `verify`, `secure`, etc.).
-- 🌐 **TLD Risk Assessment:** Flags high-risk domain extensions.
-- 📊 **Risk Scoring System:** Generates a structured 0-100 risk score and threat report.
+-  **High Performance:** Written in raw C++ for lightning-fast execution.
+-  **Protocol Verification:** Detects unencrypted HTTP connections.
+-  **Phishing Keyword Detection:** Scans URL structures for sensitive terms (`login`, `verify`, `secure`, etc.).
+-  **TLD Risk Assessment:** Flags high-risk domain extensions.
+-  **Risk Scoring System:** Generates a structured 0-100 risk score and threat report.
 
 ---
 
-## 🛠️ Compilation & Usage
+##  Compilation & Usage
 
 ### 1. Clone the Repository
 ```bash
